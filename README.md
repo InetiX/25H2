@@ -4,7 +4,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 📌 Overview
 
@@ -117,7 +117,7 @@ If you own an **NVIDIA GPU** and use the **NVIDIA App**:
 ---
 
 
-## 🇷🇺 Русский
+## Русский
 
 ### 📌 Описание
 
