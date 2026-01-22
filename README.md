@@ -24,6 +24,7 @@ We strongly recommend downgrading to **Windows 11 24H2** by following this video
 
 > ⚠️ **Important:** These instructions apply specifically to **Windows 11 25H2 builds**.
 
+* Bat file link https://github.com/InetiX/25H2/releases/download/25H2_BSOD_FIX/25h2.bat
 1. Place the **Batch (.bat) file** in the **same directory as the Unicore launcher**.
 2. Run the **Batch file every time** you want to launcher load up.
 
@@ -135,7 +136,7 @@ If you own an **NVIDIA GPU** and use the **NVIDIA App**:
 ### ▶️ Как использовать
 
 > ⚠️ **Важно:** Данные инструкции предназначены **только для сборок Windows 11 25H2**.
-
+* Ссылка на bat файл https://github.com/InetiX/25H2/releases/download/25H2_BSOD_FIX/25h2.bat 
 1. Поместите **Batch (.bat) файл** в **папку с Unicore лаунчером **.
 2. Запускайте **Batch файл каждый раз** для старта лаунчера.
 
