@@ -211,7 +211,7 @@ If you own an **NVIDIA GPU** and use the **NVIDIA App**:
 Если используется **NVIDIA GPU** и **NVIDIA App**:
 
 - Откройте **NVIDIA App → Графика**
-- Убедитесь, что **Плавное движение** , **Выкл.**
+- Убедитесь что **Плавное движение** , **Выкл.**
 - При необходимости отключите вручную
 
 <img width="1298" height="942" alt="2026-01-22_19-17-07" src="https://github.com/user-attachments/assets/87e41d38-30e3-430e-be60-c0805234b710" />
