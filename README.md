@@ -49,8 +49,8 @@ If you still experience a **Blue Screen of Death (BSOD)**, follow **all steps be
 
 #### 3️⃣ Adjust Windows Security settings
 
-* Disable **Core Isolation**
-* Disable all in **Windows Exploit Protection**
+* Disable : **Core Isolation**
+* Disable all in : **Windows Exploit Protection**
 * Restart your PC
 
 <img width="1200" height="589" alt="image" src="https://github.com/user-attachments/assets/1c144b05-68f2-45e8-ac1d-0d882f0759ae" />
@@ -162,8 +162,8 @@ If you own an **NVIDIA GPU** and use the **NVIDIA App**:
 
 #### 3️⃣ Настройки безопасности Windows
 
-* Отключите **Изоляцию ядра (Core Isolation)**
-* Отключите все параметры **Защита от эксплойтов (Exploit Protection)**
+* Отключите : **Изоляцию ядра (Core Isolation)**
+* Отключите все параметры : **Защита от эксплойтов (Exploit Protection)**
 * Перезагрузите компьютер
 
 <img width="1200" height="589" alt="image" src="https://github.com/user-attachments/assets/1c144b05-68f2-45e8-ac1d-0d882f0759ae" />
