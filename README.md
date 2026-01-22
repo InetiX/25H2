@@ -163,7 +163,7 @@ If you own an **NVIDIA GPU** and use the **NVIDIA App**:
 #### 3️⃣ Настройки безопасности Windows
 
 * Отключите **Изоляцию ядра (Core Isolation)**
-* Отключите **все параметры защиты от эксплойтов (Exploit Protection)**
+* Отключите все параметры **Защита от эксплойтов (Exploit Protection)**
 * Перезагрузите компьютер
 
 <img width="1200" height="589" alt="image" src="https://github.com/user-attachments/assets/1c144b05-68f2-45e8-ac1d-0d882f0759ae" />
