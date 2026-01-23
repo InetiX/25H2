@@ -44,7 +44,7 @@ If you still experience a **Blue Screen of Death (BSOD)**, follow **all steps be
 
 #### 2️⃣ Close game anti-cheat applications
 
-* Close **all game anti-cheat software** running in the **Windows system tray**.
+* Close **all games anti-cheat software** running in the **Windows system tray**.
 <img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/0f8eefd3-c8dc-4053-b582-ec8f3942a925" />
 
 #### 3️⃣ Adjust Windows Security settings
