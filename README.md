@@ -69,7 +69,7 @@ If the problem persists:
 * Apply
 * Restart your PC
 
-#### 5️⃣ Final step
+#### 5️⃣ Final step for who use Windows 11 25H2 build, if no skip it!!!
 
 * Run the **Batch file again** after completing all steps.
 
@@ -181,7 +181,7 @@ If you own an **NVIDIA GPU** and use the **NVIDIA App**:
 * Применить
 * Перезагрузите ПК
 
-#### 5️⃣ Финальный шаг
+#### 5️⃣ Финальный шаг для тех у кого Windows 11 25H2 билд, если же нет игнорируем этот шаг!!!
 
 * После всех действий **снова запустите Batch файл**.
 
